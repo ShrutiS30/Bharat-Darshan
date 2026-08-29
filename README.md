@@ -1,5 +1,8 @@
 # Bharat Darshan
 
+ ## Live Demo
+
+[Visit Bharat Darshan](https://bharat-darshan-kkinhyd6t8ybimsrz2kdbt.streamlit.app/)
 ## AI-Powered Explorer of Ancient Indian History
 
 Bharat Darshan is an AI-powered conversational application designed to help users explore the history, culture, traditions, and heritage of Ancient India through an interactive chat experience.
